@@ -38,4 +38,4 @@ I enjoy learning Machine Learning models and AI and using them effectively in th
 ---
 
 ### 🌐 Connect with me
-www.linkedin.com/in/arindam-guha-4bb48a224
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/arindam-guha-4bb48a224)
